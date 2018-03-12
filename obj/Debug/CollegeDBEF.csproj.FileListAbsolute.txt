@@ -1,0 +1,14 @@
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\CollegeDBEF.exe.config
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\CollegeDBEF.exe
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\CollegeDBEF.pdb
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\EntityFramework.dll
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\EntityFramework.xml
+c:\users\clevelandcodes\source\repos\CollegeDBEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.csprojResolveAssemblyReference.cache
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.csproj.CoreCompileInputs.cache
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.exe
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.pdb
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.Migrations.First.resources
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.csproj.GenerateResource.Cache
+c:\users\clevelandcodes\source\repos\CollegeDBEF\obj\Debug\CollegeDBEF.Migrations.Scholarschips.resources
